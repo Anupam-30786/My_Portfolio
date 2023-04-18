@@ -3,7 +3,6 @@ import "./footer.css";
 import { FaCode } from "react-icons/fa";
 import { BsGithub } from "react-icons/bs";
 import { BsLinkedin } from "react-icons/bs";
-import { BsInstagram } from "react-icons/bs";
 const Footer = () => {
   return (
     <footer id="footer">
