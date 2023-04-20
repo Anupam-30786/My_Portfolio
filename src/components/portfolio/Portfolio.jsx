@@ -19,7 +19,7 @@ const Portfolio = () => {
       image: IMG3,
       title: "Admin DashBoard Planner",
       github: "https://github.com/Rahul12Arora/Admin-Dashboard-Fullstack-Master",
-      demo: "https://admin-frontend-4xk1.onrender.com",
+      demo: "https://ubiquitous-mochi-ed1110.netlify.app/",
     },
     {
       id: 3,
