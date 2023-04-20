@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG6 from "../../assets/portfolio6.png";
+import IMG7 from "../../assets/portfolio7.png";
 
 const Portfolio = () => {
   const data = [
@@ -27,6 +28,14 @@ const Portfolio = () => {
       title: "Disney HotStar Clone - Using JavaScript, HTML & CSS",
       github: "https://github.com/Rahul12Arora/Disney-Hotstar-clone",
       demo: "https://elegant-cat-d1bdec.netlify.app/",
+    }
+    ,
+    {
+      id:4,
+      image:IMG7,
+      title:"Whatsapp web Clone",
+      github:"https://github.com/Anupam-30786/Whats-App-Clone---React-Project---hap3t5u77f8i",
+      demo:"https://unique-travesseiro-d999f6.netlify.app/"
     }
     // {
     //   id: 4,
